@@ -1,11 +1,15 @@
 //
-// Created by Duncan on 2018/10/03.
+// Created by Tjaart on 2018/10/03.
 //
 
 #ifndef PROJECT_STANDARDGOKART_H
 #define PROJECT_STANDARDGOKART_H
-class StandardGoKart
-{
 
+#include "StandardCar.h"
+
+class StandardGoKart : public StandardCar{
+public:
+    StandardGoKart() : StandardCar("GoKart"){};
 };
+
 #endif //PROJECT_STANDARDGOKART_H
