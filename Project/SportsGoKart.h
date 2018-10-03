@@ -4,5 +4,7 @@
 
 #ifndef PROJECT_SPORTSGOKART_H
 #define PROJECT_SPORTSGOKART_H
+class SportsGoKart{
 
+};
 #endif //PROJECT_SPORTSGOKART_H

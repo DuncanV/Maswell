@@ -4,5 +4,8 @@
 
 #ifndef PROJECT_STANDARDGOKART_H
 #define PROJECT_STANDARDGOKART_H
+class StandardGoKart
+{
 
+};
 #endif //PROJECT_STANDARDGOKART_H

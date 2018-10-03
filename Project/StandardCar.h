@@ -4,5 +4,7 @@
 
 #ifndef PROJECT_STANDARDCAR_H
 #define PROJECT_STANDARDCAR_H
+class StandardCar{
 
+};
 #endif //PROJECT_STANDARDCAR_H

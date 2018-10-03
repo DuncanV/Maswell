@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Project.dir/main.cpp.o"
-  "CMakeFiles/Project.dir/CarFactory.cpp.o"
   "CMakeFiles/Project.dir/Car.cpp.o"
   "CMakeFiles/Project.dir/ElectricCar.cpp.o"
   "CMakeFiles/Project.dir/SportsCar.cpp.o"
@@ -14,6 +13,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o"
   "CMakeFiles/Project.dir/SportsFormulaOne.cpp.o"
   "CMakeFiles/Project.dir/StandardFormulaOne.cpp.o"
+  "CMakeFiles/Project.dir/GoKartFactory.cpp.o"
+  "CMakeFiles/Project.dir/RoadsterFactory.cpp.o"
+  "CMakeFiles/Project.dir/ForumlaOneFactory.cpp.o"
   "Project.pdb"
   "Project.exe"
   "libProject.dll.a"

@@ -4,5 +4,8 @@
 
 #ifndef PROJECT_STANDARDROADSTER_H
 #define PROJECT_STANDARDROADSTER_H
+class StandardRoadster
+{
 
+};
 #endif //PROJECT_STANDARDROADSTER_H

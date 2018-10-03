@@ -4,5 +4,7 @@
 
 #ifndef PROJECT_ELECTRICROADSTER_H
 #define PROJECT_ELECTRICROADSTER_H
+class ElectricRoadster{
 
+};
 #endif //PROJECT_ELECTRICROADSTER_H

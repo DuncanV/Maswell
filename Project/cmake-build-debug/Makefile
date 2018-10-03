@@ -150,33 +150,6 @@ Car.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/Car.cpp.s
 .PHONY : Car.cpp.s
 
-CarFactory.o: CarFactory.cpp.o
-
-.PHONY : CarFactory.o
-
-# target to build an object file
-CarFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.o
-.PHONY : CarFactory.cpp.o
-
-CarFactory.i: CarFactory.cpp.i
-
-.PHONY : CarFactory.i
-
-# target to preprocess a source file
-CarFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.i
-.PHONY : CarFactory.cpp.i
-
-CarFactory.s: CarFactory.cpp.s
-
-.PHONY : CarFactory.s
-
-# target to generate assembly for a file
-CarFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.s
-.PHONY : CarFactory.cpp.s
-
 ElectricCar.o: ElectricCar.cpp.o
 
 .PHONY : ElectricCar.o
@@ -284,6 +257,87 @@ ElectricRoadster.s: ElectricRoadster.cpp.s
 ElectricRoadster.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.s
 .PHONY : ElectricRoadster.cpp.s
+
+ForumlaOneFactory.o: ForumlaOneFactory.cpp.o
+
+.PHONY : ForumlaOneFactory.o
+
+# target to build an object file
+ForumlaOneFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ForumlaOneFactory.cpp.o
+.PHONY : ForumlaOneFactory.cpp.o
+
+ForumlaOneFactory.i: ForumlaOneFactory.cpp.i
+
+.PHONY : ForumlaOneFactory.i
+
+# target to preprocess a source file
+ForumlaOneFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ForumlaOneFactory.cpp.i
+.PHONY : ForumlaOneFactory.cpp.i
+
+ForumlaOneFactory.s: ForumlaOneFactory.cpp.s
+
+.PHONY : ForumlaOneFactory.s
+
+# target to generate assembly for a file
+ForumlaOneFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ForumlaOneFactory.cpp.s
+.PHONY : ForumlaOneFactory.cpp.s
+
+GoKartFactory.o: GoKartFactory.cpp.o
+
+.PHONY : GoKartFactory.o
+
+# target to build an object file
+GoKartFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/GoKartFactory.cpp.o
+.PHONY : GoKartFactory.cpp.o
+
+GoKartFactory.i: GoKartFactory.cpp.i
+
+.PHONY : GoKartFactory.i
+
+# target to preprocess a source file
+GoKartFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/GoKartFactory.cpp.i
+.PHONY : GoKartFactory.cpp.i
+
+GoKartFactory.s: GoKartFactory.cpp.s
+
+.PHONY : GoKartFactory.s
+
+# target to generate assembly for a file
+GoKartFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/GoKartFactory.cpp.s
+.PHONY : GoKartFactory.cpp.s
+
+RoadsterFactory.o: RoadsterFactory.cpp.o
+
+.PHONY : RoadsterFactory.o
+
+# target to build an object file
+RoadsterFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/RoadsterFactory.cpp.o
+.PHONY : RoadsterFactory.cpp.o
+
+RoadsterFactory.i: RoadsterFactory.cpp.i
+
+.PHONY : RoadsterFactory.i
+
+# target to preprocess a source file
+RoadsterFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/RoadsterFactory.cpp.i
+.PHONY : RoadsterFactory.cpp.i
+
+RoadsterFactory.s: RoadsterFactory.cpp.s
+
+.PHONY : RoadsterFactory.s
+
+# target to generate assembly for a file
+RoadsterFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/RoadsterFactory.cpp.s
+.PHONY : RoadsterFactory.cpp.s
 
 SportsCar.o: SportsCar.cpp.o
 
@@ -540,9 +594,6 @@ help:
 	@echo "... Car.o"
 	@echo "... Car.i"
 	@echo "... Car.s"
-	@echo "... CarFactory.o"
-	@echo "... CarFactory.i"
-	@echo "... CarFactory.s"
 	@echo "... ElectricCar.o"
 	@echo "... ElectricCar.i"
 	@echo "... ElectricCar.s"
@@ -555,6 +606,15 @@ help:
 	@echo "... ElectricRoadster.o"
 	@echo "... ElectricRoadster.i"
 	@echo "... ElectricRoadster.s"
+	@echo "... ForumlaOneFactory.o"
+	@echo "... ForumlaOneFactory.i"
+	@echo "... ForumlaOneFactory.s"
+	@echo "... GoKartFactory.o"
+	@echo "... GoKartFactory.i"
+	@echo "... GoKartFactory.s"
+	@echo "... RoadsterFactory.o"
+	@echo "... RoadsterFactory.i"
+	@echo "... RoadsterFactory.s"
 	@echo "... SportsCar.o"
 	@echo "... SportsCar.i"
 	@echo "... SportsCar.s"

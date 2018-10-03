@@ -4,5 +4,7 @@
 
 #ifndef PROJECT_SPORTSFORMULAONE_H
 #define PROJECT_SPORTSFORMULAONE_H
+class SportsFormulaOne{
 
+};
 #endif //PROJECT_SPORTSFORMULAONE_H

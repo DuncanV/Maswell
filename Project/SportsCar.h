@@ -4,5 +4,8 @@
 
 #ifndef PROJECT_SPORTSCAR_H
 #define PROJECT_SPORTSCAR_H
+class SportsCar
+{
 
+};
 #endif //PROJECT_SPORTSCAR_H
