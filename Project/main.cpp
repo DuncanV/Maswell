@@ -11,8 +11,6 @@
 #include "Spoiler.h"
 int main() {
 
-    int testie;
-
     srand(time(NULL));
 
     CarFactory **Factories = new CarFactory *[3];   //
