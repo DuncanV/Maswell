@@ -17,7 +17,7 @@ int main() {
     Car **cars = new Car *[5];
 
     while (again == 1 && amount != 5) {
-        factoryNum = rand() % 3 + 1;
+        factoryNum = rand() % 3;
         typeNum = rand() % 3 + 1;
         if (typeNum == 1) {
             cars[amount++] = Factories[factoryNum]->produceElectric();
