@@ -15,7 +15,8 @@ int main() {
     Factories[1] = new RoadsterFactory();           //
     Factories[2] = new FormulaOneFactory();         //
     Car **cars = new Car *[5];
-    while (again == 1 || amount != 5) {
+
+    while (again == 1 && amount != 5) {
         factoryNum = rand() % 3 + 1;
         typeNum = rand() % 3 + 1;
         if (typeNum == 1) {

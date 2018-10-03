@@ -10,7 +10,7 @@
 
 #include "ElectricCar.h"
 
-class ElectricGoKart : ElectricCar{
+class ElectricGoKart : public ElectricCar{
 public:
     /**
     *  Constructor for ElectricGoKart, calls Constructor  of ElectricCar
