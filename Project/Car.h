@@ -4,7 +4,11 @@
 
 #ifndef PROJECT_CAR_H
 #define PROJECT_CAR_H
+class Car{
 
+<<<<<<< HEAD
+};
+=======
 #include <iostream>
 #include <string>
 
@@ -26,4 +30,5 @@ private:
 
 };
 
+>>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 #endif //PROJECT_CAR_H
