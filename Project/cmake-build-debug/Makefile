@@ -123,6 +123,33 @@ Project/fast:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/build
 .PHONY : Project/fast
 
+CarFactory.o: CarFactory.cpp.o
+
+.PHONY : CarFactory.o
+
+# target to build an object file
+CarFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.o
+.PHONY : CarFactory.cpp.o
+
+CarFactory.i: CarFactory.cpp.i
+
+.PHONY : CarFactory.i
+
+# target to preprocess a source file
+CarFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.i
+.PHONY : CarFactory.cpp.i
+
+CarFactory.s: CarFactory.cpp.s
+
+.PHONY : CarFactory.s
+
+# target to generate assembly for a file
+CarFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.s
+.PHONY : CarFactory.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Project"
+	@echo "... CarFactory.o"
+	@echo "... CarFactory.i"
+	@echo "... CarFactory.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

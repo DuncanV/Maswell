@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h">
+			<Option target="Project"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/main.cpp">
 			<Option target="Project"/>
 		</Unit>
