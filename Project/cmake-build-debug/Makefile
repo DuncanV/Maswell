@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
+RM = /cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cma
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
+	/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -70,7 +70,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -257,87 +257,6 @@ ElectricRoadster.s: ElectricRoadster.cpp.s
 ElectricRoadster.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.s
 .PHONY : ElectricRoadster.cpp.s
-
-ForumlaOneFactory.o: ForumlaOneFactory.cpp.o
-
-.PHONY : ForumlaOneFactory.o
-
-# target to build an object file
-ForumlaOneFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ForumlaOneFactory.cpp.o
-.PHONY : ForumlaOneFactory.cpp.o
-
-ForumlaOneFactory.i: ForumlaOneFactory.cpp.i
-
-.PHONY : ForumlaOneFactory.i
-
-# target to preprocess a source file
-ForumlaOneFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ForumlaOneFactory.cpp.i
-.PHONY : ForumlaOneFactory.cpp.i
-
-ForumlaOneFactory.s: ForumlaOneFactory.cpp.s
-
-.PHONY : ForumlaOneFactory.s
-
-# target to generate assembly for a file
-ForumlaOneFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ForumlaOneFactory.cpp.s
-.PHONY : ForumlaOneFactory.cpp.s
-
-GoKartFactory.o: GoKartFactory.cpp.o
-
-.PHONY : GoKartFactory.o
-
-# target to build an object file
-GoKartFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/GoKartFactory.cpp.o
-.PHONY : GoKartFactory.cpp.o
-
-GoKartFactory.i: GoKartFactory.cpp.i
-
-.PHONY : GoKartFactory.i
-
-# target to preprocess a source file
-GoKartFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/GoKartFactory.cpp.i
-.PHONY : GoKartFactory.cpp.i
-
-GoKartFactory.s: GoKartFactory.cpp.s
-
-.PHONY : GoKartFactory.s
-
-# target to generate assembly for a file
-GoKartFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/GoKartFactory.cpp.s
-.PHONY : GoKartFactory.cpp.s
-
-RoadsterFactory.o: RoadsterFactory.cpp.o
-
-.PHONY : RoadsterFactory.o
-
-# target to build an object file
-RoadsterFactory.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/RoadsterFactory.cpp.o
-.PHONY : RoadsterFactory.cpp.o
-
-RoadsterFactory.i: RoadsterFactory.cpp.i
-
-.PHONY : RoadsterFactory.i
-
-# target to preprocess a source file
-RoadsterFactory.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/RoadsterFactory.cpp.i
-.PHONY : RoadsterFactory.cpp.i
-
-RoadsterFactory.s: RoadsterFactory.cpp.s
-
-.PHONY : RoadsterFactory.s
-
-# target to generate assembly for a file
-RoadsterFactory.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/RoadsterFactory.cpp.s
-.PHONY : RoadsterFactory.cpp.s
 
 SportsCar.o: SportsCar.cpp.o
 
@@ -606,15 +525,6 @@ help:
 	@echo "... ElectricRoadster.o"
 	@echo "... ElectricRoadster.i"
 	@echo "... ElectricRoadster.s"
-	@echo "... ForumlaOneFactory.o"
-	@echo "... ForumlaOneFactory.i"
-	@echo "... ForumlaOneFactory.s"
-	@echo "... GoKartFactory.o"
-	@echo "... GoKartFactory.i"
-	@echo "... GoKartFactory.s"
-	@echo "... RoadsterFactory.o"
-	@echo "... RoadsterFactory.i"
-	@echo "... RoadsterFactory.s"
 	@echo "... SportsCar.o"
 	@echo "... SportsCar.i"
 	@echo "... SportsCar.s"
