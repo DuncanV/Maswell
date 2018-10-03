@@ -4,11 +4,7 @@
 
 #ifndef PROJECT_STANDARDCAR_H
 #define PROJECT_STANDARDCAR_H
-class StandardCar{
 
-<<<<<<< HEAD
-};
-=======
 #include "Car.h
 
 class StandardCar : public Car{
@@ -23,5 +19,4 @@ public:
 private:
 };
 
->>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 #endif //PROJECT_STANDARDCAR_H

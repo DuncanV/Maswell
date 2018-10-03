@@ -86,14 +86,7 @@
 		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/Car.h">
 			<Option target="Project"/>
 		</Unit>
-<<<<<<< HEAD
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h">
-=======
-		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/CarFactory.cpp">
-			<Option target="Project"/>
-		</Unit>
 		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/CarFactory.h">
->>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricCar.cpp">
@@ -120,29 +113,16 @@
 		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricRoadster.h">
 			<Option target="Project"/>
 		</Unit>
-<<<<<<< HEAD
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ForumlaOneFactory.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ForumlaOneFactory.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ForumlaOneFactory.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/GoKartFactory.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/GoKartFactory.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/RoadsterFactory.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/GoKartFactory.h">
-			<Option target="Project"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/RoadsterFactory.cpp">
-			<Option target="Project"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/RoadsterFactory.h">
-			<Option target="Project"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.cpp">
-=======
 		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsCar.cpp">
->>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsCar.h">
