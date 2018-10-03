@@ -1,5 +1,5 @@
 //
-// Created by Tjaart on 2018/10/03.
+// Created by Duncan + Tjaart on 2018/10/03.
 //
 
 #include "Car.h"
@@ -16,7 +16,7 @@ Car::Car(const Car& car_) {
     modelNumber = car_.modelNumber;
 }
 
-string Car::getDiscription() {
+string Car::getDescription() {
     string end = "*************************\n";
 
     string out = "Car Description:\n";

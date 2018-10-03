@@ -1,7 +1,10 @@
-//
-// Created by Tjaart on 2018/10/03.
-//
-
+/**
+ *  @file SportsCar.h
+ *  @class SportsCar
+ *  @authors Duncan + Tjaart
+ *  @version 1.0.0
+ *  @brief Concrete Product for Abstract Factory Pattern
+ */
 #ifndef PROJECT_ELECTRICCAR_H
 #define PROJECT_ELECTRICCAR_H
 
@@ -13,7 +16,7 @@ public:
     ElectricCar(string modelType_);
     ElectricCar(const Car& car_);
     virtual ~ElectricCar(){};
-    virtual string getDiscription();
+    virtual string getDescription();
     virtual Car* clone();
 
 private:

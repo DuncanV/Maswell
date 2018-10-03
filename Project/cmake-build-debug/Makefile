@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
+RM = /cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cma
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
+	/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -70,7 +70,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -177,33 +177,6 @@ ElectricCar.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricCar.cpp.s
 .PHONY : ElectricCar.cpp.s
 
-ElectricRoadster.o: ElectricRoadster.cpp.o
-
-.PHONY : ElectricRoadster.o
-
-# target to build an object file
-ElectricRoadster.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.o
-.PHONY : ElectricRoadster.cpp.o
-
-ElectricRoadster.i: ElectricRoadster.cpp.i
-
-.PHONY : ElectricRoadster.i
-
-# target to preprocess a source file
-ElectricRoadster.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.i
-.PHONY : ElectricRoadster.cpp.i
-
-ElectricRoadster.s: ElectricRoadster.cpp.s
-
-.PHONY : ElectricRoadster.s
-
-# target to generate assembly for a file
-ElectricRoadster.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.s
-.PHONY : ElectricRoadster.cpp.s
-
 SportsCar.o: SportsCar.cpp.o
 
 .PHONY : SportsCar.o
@@ -231,87 +204,6 @@ SportsCar.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsCar.cpp.s
 .PHONY : SportsCar.cpp.s
 
-SportsFormulaOne.o: SportsFormulaOne.cpp.o
-
-.PHONY : SportsFormulaOne.o
-
-# target to build an object file
-SportsFormulaOne.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsFormulaOne.cpp.o
-.PHONY : SportsFormulaOne.cpp.o
-
-SportsFormulaOne.i: SportsFormulaOne.cpp.i
-
-.PHONY : SportsFormulaOne.i
-
-# target to preprocess a source file
-SportsFormulaOne.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsFormulaOne.cpp.i
-.PHONY : SportsFormulaOne.cpp.i
-
-SportsFormulaOne.s: SportsFormulaOne.cpp.s
-
-.PHONY : SportsFormulaOne.s
-
-# target to generate assembly for a file
-SportsFormulaOne.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsFormulaOne.cpp.s
-.PHONY : SportsFormulaOne.cpp.s
-
-SportsGokart.o: SportsGokart.cpp.o
-
-.PHONY : SportsGokart.o
-
-# target to build an object file
-SportsGokart.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsGokart.cpp.o
-.PHONY : SportsGokart.cpp.o
-
-SportsGokart.i: SportsGokart.cpp.i
-
-.PHONY : SportsGokart.i
-
-# target to preprocess a source file
-SportsGokart.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsGokart.cpp.i
-.PHONY : SportsGokart.cpp.i
-
-SportsGokart.s: SportsGokart.cpp.s
-
-.PHONY : SportsGokart.s
-
-# target to generate assembly for a file
-SportsGokart.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsGokart.cpp.s
-.PHONY : SportsGokart.cpp.s
-
-SportsRoadster.o: SportsRoadster.cpp.o
-
-.PHONY : SportsRoadster.o
-
-# target to build an object file
-SportsRoadster.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsRoadster.cpp.o
-.PHONY : SportsRoadster.cpp.o
-
-SportsRoadster.i: SportsRoadster.cpp.i
-
-.PHONY : SportsRoadster.i
-
-# target to preprocess a source file
-SportsRoadster.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsRoadster.cpp.i
-.PHONY : SportsRoadster.cpp.i
-
-SportsRoadster.s: SportsRoadster.cpp.s
-
-.PHONY : SportsRoadster.s
-
-# target to generate assembly for a file
-SportsRoadster.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsRoadster.cpp.s
-.PHONY : SportsRoadster.cpp.s
-
 StandardCar.o: StandardCar.cpp.o
 
 .PHONY : StandardCar.o
@@ -338,87 +230,6 @@ StandardCar.s: StandardCar.cpp.s
 StandardCar.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardCar.cpp.s
 .PHONY : StandardCar.cpp.s
-
-StandardFormulaOne.o: StandardFormulaOne.cpp.o
-
-.PHONY : StandardFormulaOne.o
-
-# target to build an object file
-StandardFormulaOne.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardFormulaOne.cpp.o
-.PHONY : StandardFormulaOne.cpp.o
-
-StandardFormulaOne.i: StandardFormulaOne.cpp.i
-
-.PHONY : StandardFormulaOne.i
-
-# target to preprocess a source file
-StandardFormulaOne.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardFormulaOne.cpp.i
-.PHONY : StandardFormulaOne.cpp.i
-
-StandardFormulaOne.s: StandardFormulaOne.cpp.s
-
-.PHONY : StandardFormulaOne.s
-
-# target to generate assembly for a file
-StandardFormulaOne.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardFormulaOne.cpp.s
-.PHONY : StandardFormulaOne.cpp.s
-
-StandardGoKart.o: StandardGoKart.cpp.o
-
-.PHONY : StandardGoKart.o
-
-# target to build an object file
-StandardGoKart.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardGoKart.cpp.o
-.PHONY : StandardGoKart.cpp.o
-
-StandardGoKart.i: StandardGoKart.cpp.i
-
-.PHONY : StandardGoKart.i
-
-# target to preprocess a source file
-StandardGoKart.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardGoKart.cpp.i
-.PHONY : StandardGoKart.cpp.i
-
-StandardGoKart.s: StandardGoKart.cpp.s
-
-.PHONY : StandardGoKart.s
-
-# target to generate assembly for a file
-StandardGoKart.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardGoKart.cpp.s
-.PHONY : StandardGoKart.cpp.s
-
-StandardRoadster.o: StandardRoadster.cpp.o
-
-.PHONY : StandardRoadster.o
-
-# target to build an object file
-StandardRoadster.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardRoadster.cpp.o
-.PHONY : StandardRoadster.cpp.o
-
-StandardRoadster.i: StandardRoadster.cpp.i
-
-.PHONY : StandardRoadster.i
-
-# target to preprocess a source file
-StandardRoadster.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardRoadster.cpp.i
-.PHONY : StandardRoadster.cpp.i
-
-StandardRoadster.s: StandardRoadster.cpp.s
-
-.PHONY : StandardRoadster.s
-
-# target to generate assembly for a file
-StandardRoadster.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardRoadster.cpp.s
-.PHONY : StandardRoadster.cpp.s
 
 main.o: main.cpp.o
 
@@ -462,33 +273,12 @@ help:
 	@echo "... ElectricCar.o"
 	@echo "... ElectricCar.i"
 	@echo "... ElectricCar.s"
-	@echo "... ElectricRoadster.o"
-	@echo "... ElectricRoadster.i"
-	@echo "... ElectricRoadster.s"
 	@echo "... SportsCar.o"
 	@echo "... SportsCar.i"
 	@echo "... SportsCar.s"
-	@echo "... SportsFormulaOne.o"
-	@echo "... SportsFormulaOne.i"
-	@echo "... SportsFormulaOne.s"
-	@echo "... SportsGokart.o"
-	@echo "... SportsGokart.i"
-	@echo "... SportsGokart.s"
-	@echo "... SportsRoadster.o"
-	@echo "... SportsRoadster.i"
-	@echo "... SportsRoadster.s"
 	@echo "... StandardCar.o"
 	@echo "... StandardCar.i"
 	@echo "... StandardCar.s"
-	@echo "... StandardFormulaOne.o"
-	@echo "... StandardFormulaOne.i"
-	@echo "... StandardFormulaOne.s"
-	@echo "... StandardGoKart.o"
-	@echo "... StandardGoKart.i"
-	@echo "... StandardGoKart.s"
-	@echo "... StandardRoadster.o"
-	@echo "... StandardRoadster.i"
-	@echo "... StandardRoadster.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
