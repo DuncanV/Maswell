@@ -1,11 +1,14 @@
 //
-// Created by Duncan on 2018/10/03.
+// Created by Tjaart on 2018/10/03.
 //
 
 #ifndef PROJECT_ELECTRICFORMULAONE_H
 #define PROJECT_ELECTRICFORMULAONE_H
-class ElectricFormulaOne
-{
 
+#include "ElectricCar.h"
+
+class ElectricFormulaOne : public ElectricCar {
+public:
+    ElectricFormulaOne() : ElectricCar("FormulaOne"){};
 };
 #endif //PROJECT_ELECTRICFORMULAONE_H
