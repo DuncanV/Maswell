@@ -4,7 +4,10 @@
 #include "RoadsterFactory.h"
 #include "ForumlaOneFactory.h"
 #include "CarFactory.h"
+<<<<<<< HEAD
 
+=======
+>>>>>>> c83f5610bffed3676e79b803a2efe9b0345e0265
 #include "Nitro.h"
 #include "SkullVinyl.h"
 #include "FlameVinyl.h"
