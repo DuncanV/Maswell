@@ -123,6 +123,33 @@ Project/fast:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/build
 .PHONY : Project/fast
 
+Car.o: Car.cpp.o
+
+.PHONY : Car.o
+
+# target to build an object file
+Car.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/Car.cpp.o
+.PHONY : Car.cpp.o
+
+Car.i: Car.cpp.i
+
+.PHONY : Car.i
+
+# target to preprocess a source file
+Car.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/Car.cpp.i
+.PHONY : Car.cpp.i
+
+Car.s: Car.cpp.s
+
+.PHONY : Car.s
+
+# target to generate assembly for a file
+Car.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/Car.cpp.s
+.PHONY : Car.cpp.s
+
 CarFactory.o: CarFactory.cpp.o
 
 .PHONY : CarFactory.o
@@ -149,6 +176,330 @@ CarFactory.s: CarFactory.cpp.s
 CarFactory.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/CarFactory.cpp.s
 .PHONY : CarFactory.cpp.s
+
+ElectricCar.o: ElectricCar.cpp.o
+
+.PHONY : ElectricCar.o
+
+# target to build an object file
+ElectricCar.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricCar.cpp.o
+.PHONY : ElectricCar.cpp.o
+
+ElectricCar.i: ElectricCar.cpp.i
+
+.PHONY : ElectricCar.i
+
+# target to preprocess a source file
+ElectricCar.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricCar.cpp.i
+.PHONY : ElectricCar.cpp.i
+
+ElectricCar.s: ElectricCar.cpp.s
+
+.PHONY : ElectricCar.s
+
+# target to generate assembly for a file
+ElectricCar.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricCar.cpp.s
+.PHONY : ElectricCar.cpp.s
+
+ElectricFormulaOne.o: ElectricFormulaOne.cpp.o
+
+.PHONY : ElectricFormulaOne.o
+
+# target to build an object file
+ElectricFormulaOne.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o
+.PHONY : ElectricFormulaOne.cpp.o
+
+ElectricFormulaOne.i: ElectricFormulaOne.cpp.i
+
+.PHONY : ElectricFormulaOne.i
+
+# target to preprocess a source file
+ElectricFormulaOne.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricFormulaOne.cpp.i
+.PHONY : ElectricFormulaOne.cpp.i
+
+ElectricFormulaOne.s: ElectricFormulaOne.cpp.s
+
+.PHONY : ElectricFormulaOne.s
+
+# target to generate assembly for a file
+ElectricFormulaOne.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricFormulaOne.cpp.s
+.PHONY : ElectricFormulaOne.cpp.s
+
+ElectricGokart.o: ElectricGokart.cpp.o
+
+.PHONY : ElectricGokart.o
+
+# target to build an object file
+ElectricGokart.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricGokart.cpp.o
+.PHONY : ElectricGokart.cpp.o
+
+ElectricGokart.i: ElectricGokart.cpp.i
+
+.PHONY : ElectricGokart.i
+
+# target to preprocess a source file
+ElectricGokart.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricGokart.cpp.i
+.PHONY : ElectricGokart.cpp.i
+
+ElectricGokart.s: ElectricGokart.cpp.s
+
+.PHONY : ElectricGokart.s
+
+# target to generate assembly for a file
+ElectricGokart.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricGokart.cpp.s
+.PHONY : ElectricGokart.cpp.s
+
+ElectricRoadster.o: ElectricRoadster.cpp.o
+
+.PHONY : ElectricRoadster.o
+
+# target to build an object file
+ElectricRoadster.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.o
+.PHONY : ElectricRoadster.cpp.o
+
+ElectricRoadster.i: ElectricRoadster.cpp.i
+
+.PHONY : ElectricRoadster.i
+
+# target to preprocess a source file
+ElectricRoadster.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.i
+.PHONY : ElectricRoadster.cpp.i
+
+ElectricRoadster.s: ElectricRoadster.cpp.s
+
+.PHONY : ElectricRoadster.s
+
+# target to generate assembly for a file
+ElectricRoadster.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricRoadster.cpp.s
+.PHONY : ElectricRoadster.cpp.s
+
+SportsCar.o: SportsCar.cpp.o
+
+.PHONY : SportsCar.o
+
+# target to build an object file
+SportsCar.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsCar.cpp.o
+.PHONY : SportsCar.cpp.o
+
+SportsCar.i: SportsCar.cpp.i
+
+.PHONY : SportsCar.i
+
+# target to preprocess a source file
+SportsCar.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsCar.cpp.i
+.PHONY : SportsCar.cpp.i
+
+SportsCar.s: SportsCar.cpp.s
+
+.PHONY : SportsCar.s
+
+# target to generate assembly for a file
+SportsCar.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsCar.cpp.s
+.PHONY : SportsCar.cpp.s
+
+SportsFormulaOne.o: SportsFormulaOne.cpp.o
+
+.PHONY : SportsFormulaOne.o
+
+# target to build an object file
+SportsFormulaOne.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsFormulaOne.cpp.o
+.PHONY : SportsFormulaOne.cpp.o
+
+SportsFormulaOne.i: SportsFormulaOne.cpp.i
+
+.PHONY : SportsFormulaOne.i
+
+# target to preprocess a source file
+SportsFormulaOne.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsFormulaOne.cpp.i
+.PHONY : SportsFormulaOne.cpp.i
+
+SportsFormulaOne.s: SportsFormulaOne.cpp.s
+
+.PHONY : SportsFormulaOne.s
+
+# target to generate assembly for a file
+SportsFormulaOne.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsFormulaOne.cpp.s
+.PHONY : SportsFormulaOne.cpp.s
+
+SportsGokart.o: SportsGokart.cpp.o
+
+.PHONY : SportsGokart.o
+
+# target to build an object file
+SportsGokart.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsGokart.cpp.o
+.PHONY : SportsGokart.cpp.o
+
+SportsGokart.i: SportsGokart.cpp.i
+
+.PHONY : SportsGokart.i
+
+# target to preprocess a source file
+SportsGokart.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsGokart.cpp.i
+.PHONY : SportsGokart.cpp.i
+
+SportsGokart.s: SportsGokart.cpp.s
+
+.PHONY : SportsGokart.s
+
+# target to generate assembly for a file
+SportsGokart.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsGokart.cpp.s
+.PHONY : SportsGokart.cpp.s
+
+SportsRoadster.o: SportsRoadster.cpp.o
+
+.PHONY : SportsRoadster.o
+
+# target to build an object file
+SportsRoadster.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsRoadster.cpp.o
+.PHONY : SportsRoadster.cpp.o
+
+SportsRoadster.i: SportsRoadster.cpp.i
+
+.PHONY : SportsRoadster.i
+
+# target to preprocess a source file
+SportsRoadster.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsRoadster.cpp.i
+.PHONY : SportsRoadster.cpp.i
+
+SportsRoadster.s: SportsRoadster.cpp.s
+
+.PHONY : SportsRoadster.s
+
+# target to generate assembly for a file
+SportsRoadster.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/SportsRoadster.cpp.s
+.PHONY : SportsRoadster.cpp.s
+
+StandardCar.o: StandardCar.cpp.o
+
+.PHONY : StandardCar.o
+
+# target to build an object file
+StandardCar.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardCar.cpp.o
+.PHONY : StandardCar.cpp.o
+
+StandardCar.i: StandardCar.cpp.i
+
+.PHONY : StandardCar.i
+
+# target to preprocess a source file
+StandardCar.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardCar.cpp.i
+.PHONY : StandardCar.cpp.i
+
+StandardCar.s: StandardCar.cpp.s
+
+.PHONY : StandardCar.s
+
+# target to generate assembly for a file
+StandardCar.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardCar.cpp.s
+.PHONY : StandardCar.cpp.s
+
+StandardFormulaOne.o: StandardFormulaOne.cpp.o
+
+.PHONY : StandardFormulaOne.o
+
+# target to build an object file
+StandardFormulaOne.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardFormulaOne.cpp.o
+.PHONY : StandardFormulaOne.cpp.o
+
+StandardFormulaOne.i: StandardFormulaOne.cpp.i
+
+.PHONY : StandardFormulaOne.i
+
+# target to preprocess a source file
+StandardFormulaOne.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardFormulaOne.cpp.i
+.PHONY : StandardFormulaOne.cpp.i
+
+StandardFormulaOne.s: StandardFormulaOne.cpp.s
+
+.PHONY : StandardFormulaOne.s
+
+# target to generate assembly for a file
+StandardFormulaOne.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardFormulaOne.cpp.s
+.PHONY : StandardFormulaOne.cpp.s
+
+StandardGoKart.o: StandardGoKart.cpp.o
+
+.PHONY : StandardGoKart.o
+
+# target to build an object file
+StandardGoKart.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardGoKart.cpp.o
+.PHONY : StandardGoKart.cpp.o
+
+StandardGoKart.i: StandardGoKart.cpp.i
+
+.PHONY : StandardGoKart.i
+
+# target to preprocess a source file
+StandardGoKart.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardGoKart.cpp.i
+.PHONY : StandardGoKart.cpp.i
+
+StandardGoKart.s: StandardGoKart.cpp.s
+
+.PHONY : StandardGoKart.s
+
+# target to generate assembly for a file
+StandardGoKart.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardGoKart.cpp.s
+.PHONY : StandardGoKart.cpp.s
+
+StandardRoadster.o: StandardRoadster.cpp.o
+
+.PHONY : StandardRoadster.o
+
+# target to build an object file
+StandardRoadster.cpp.o:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardRoadster.cpp.o
+.PHONY : StandardRoadster.cpp.o
+
+StandardRoadster.i: StandardRoadster.cpp.i
+
+.PHONY : StandardRoadster.i
+
+# target to preprocess a source file
+StandardRoadster.cpp.i:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardRoadster.cpp.i
+.PHONY : StandardRoadster.cpp.i
+
+StandardRoadster.s: StandardRoadster.cpp.s
+
+.PHONY : StandardRoadster.s
+
+# target to generate assembly for a file
+StandardRoadster.cpp.s:
+	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/StandardRoadster.cpp.s
+.PHONY : StandardRoadster.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +537,48 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Project"
+	@echo "... Car.o"
+	@echo "... Car.i"
+	@echo "... Car.s"
 	@echo "... CarFactory.o"
 	@echo "... CarFactory.i"
 	@echo "... CarFactory.s"
+	@echo "... ElectricCar.o"
+	@echo "... ElectricCar.i"
+	@echo "... ElectricCar.s"
+	@echo "... ElectricFormulaOne.o"
+	@echo "... ElectricFormulaOne.i"
+	@echo "... ElectricFormulaOne.s"
+	@echo "... ElectricGokart.o"
+	@echo "... ElectricGokart.i"
+	@echo "... ElectricGokart.s"
+	@echo "... ElectricRoadster.o"
+	@echo "... ElectricRoadster.i"
+	@echo "... ElectricRoadster.s"
+	@echo "... SportsCar.o"
+	@echo "... SportsCar.i"
+	@echo "... SportsCar.s"
+	@echo "... SportsFormulaOne.o"
+	@echo "... SportsFormulaOne.i"
+	@echo "... SportsFormulaOne.s"
+	@echo "... SportsGokart.o"
+	@echo "... SportsGokart.i"
+	@echo "... SportsGokart.s"
+	@echo "... SportsRoadster.o"
+	@echo "... SportsRoadster.i"
+	@echo "... SportsRoadster.s"
+	@echo "... StandardCar.o"
+	@echo "... StandardCar.i"
+	@echo "... StandardCar.s"
+	@echo "... StandardFormulaOne.o"
+	@echo "... StandardFormulaOne.i"
+	@echo "... StandardFormulaOne.s"
+	@echo "... StandardGoKart.o"
+	@echo "... StandardGoKart.i"
+	@echo "... StandardGoKart.s"
+	@echo "... StandardRoadster.o"
+	@echo "... StandardRoadster.i"
+	@echo "... StandardRoadster.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

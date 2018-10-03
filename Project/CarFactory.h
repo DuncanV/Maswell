@@ -4,8 +4,9 @@
 
 #ifndef CARFACTORY_H
 #define CARFACTORY_H
+#include "GoKart.h"
 class CarFactory{
 public:
-    
+    virtual
 };
 #endif //CARFACTORY_H
