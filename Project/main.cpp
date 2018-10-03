@@ -5,6 +5,9 @@
 #include "ForumlaOneFactory.h"
 #include "CarFactory.h"
 int main() {
+
+    int testie;
+
     srand(time(NULL));
     int again = 1;
     int factoryNum;
