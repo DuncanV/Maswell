@@ -86,10 +86,14 @@
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Car.h">
 			<Option target="Project"/>
 		</Unit>
+<<<<<<< HEAD
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h">
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricCar.cpp">
+=======
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/CarFactory.h">
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricCar.h">
@@ -110,6 +114,7 @@
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricRoadster.cpp">
 			<Option target="Project"/>
 		</Unit>
+<<<<<<< HEAD
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricRoadster.h">
 			<Option target="Project"/>
 		</Unit>
@@ -123,6 +128,24 @@
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.cpp">
+=======
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricRoadster.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricRoadster.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ForumlaOneFactory.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/GoKartFactory.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/RoadsterFactory.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsCar.cpp">
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.h">

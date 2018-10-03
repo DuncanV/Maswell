@@ -83,8 +83,13 @@ CMakeFiles/Project.dir/main.cpp.o.provides.build: CMakeFiles/Project.dir/main.cp
 
 CMakeFiles/Project.dir/Car.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/Car.cpp.o: ../Car.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project.dir/Car.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/Car.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Car.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project.dir/Car.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/Car.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/Car.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/Car.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/Car.cpp.i"
@@ -107,8 +112,13 @@ CMakeFiles/Project.dir/Car.cpp.o.provides.build: CMakeFiles/Project.dir/Car.cpp.
 
 CMakeFiles/Project.dir/ElectricCar.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/ElectricCar.cpp.o: ../ElectricCar.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project.dir/ElectricCar.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricCar.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricCar.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project.dir/ElectricCar.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricCar.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricCar.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/ElectricCar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/ElectricCar.cpp.i"
@@ -131,8 +141,13 @@ CMakeFiles/Project.dir/ElectricCar.cpp.o.provides.build: CMakeFiles/Project.dir/
 
 CMakeFiles/Project.dir/SportsCar.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/SportsCar.cpp.o: ../SportsCar.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Project.dir/SportsCar.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsCar.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Project.dir/SportsCar.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsCar.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsCar.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/SportsCar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/SportsCar.cpp.i"
@@ -155,8 +170,13 @@ CMakeFiles/Project.dir/SportsCar.cpp.o.provides.build: CMakeFiles/Project.dir/Sp
 
 CMakeFiles/Project.dir/StandardCar.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/StandardCar.cpp.o: ../StandardCar.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Project.dir/StandardCar.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardCar.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardCar.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Project.dir/StandardCar.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardCar.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardCar.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/StandardCar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/StandardCar.cpp.i"
@@ -179,8 +199,13 @@ CMakeFiles/Project.dir/StandardCar.cpp.o.provides.build: CMakeFiles/Project.dir/
 
 CMakeFiles/Project.dir/ElectricGokart.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/ElectricGokart.cpp.o: ../ElectricGokart.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Project.dir/ElectricGokart.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricGokart.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricGokart.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Project.dir/ElectricGokart.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricGokart.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricGokart.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/ElectricGokart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/ElectricGokart.cpp.i"
@@ -203,8 +228,13 @@ CMakeFiles/Project.dir/ElectricGokart.cpp.o.provides.build: CMakeFiles/Project.d
 
 CMakeFiles/Project.dir/StandardGoKart.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/StandardGoKart.cpp.o: ../StandardGoKart.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Project.dir/StandardGoKart.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardGoKart.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardGoKart.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Project.dir/StandardGoKart.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardGoKart.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardGoKart.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/StandardGoKart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/StandardGoKart.cpp.i"
@@ -227,8 +257,13 @@ CMakeFiles/Project.dir/StandardGoKart.cpp.o.provides.build: CMakeFiles/Project.d
 
 CMakeFiles/Project.dir/SportsGokart.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/SportsGokart.cpp.o: ../SportsGokart.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Project.dir/SportsGokart.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsGokart.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsGokart.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Project.dir/SportsGokart.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsGokart.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsGokart.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/SportsGokart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/SportsGokart.cpp.i"
@@ -251,8 +286,13 @@ CMakeFiles/Project.dir/SportsGokart.cpp.o.provides.build: CMakeFiles/Project.dir
 
 CMakeFiles/Project.dir/ElectricRoadster.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/ElectricRoadster.cpp.o: ../ElectricRoadster.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Project.dir/ElectricRoadster.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricRoadster.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricRoadster.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Project.dir/ElectricRoadster.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricRoadster.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricRoadster.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/ElectricRoadster.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/ElectricRoadster.cpp.i"
@@ -275,8 +315,13 @@ CMakeFiles/Project.dir/ElectricRoadster.cpp.o.provides.build: CMakeFiles/Project
 
 CMakeFiles/Project.dir/SportsRoadster.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/SportsRoadster.cpp.o: ../SportsRoadster.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Project.dir/SportsRoadster.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsRoadster.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsRoadster.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Project.dir/SportsRoadster.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsRoadster.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsRoadster.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/SportsRoadster.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/SportsRoadster.cpp.i"
@@ -299,8 +344,13 @@ CMakeFiles/Project.dir/SportsRoadster.cpp.o.provides.build: CMakeFiles/Project.d
 
 CMakeFiles/Project.dir/StandardRoadster.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/StandardRoadster.cpp.o: ../StandardRoadster.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Project.dir/StandardRoadster.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardRoadster.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardRoadster.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Project.dir/StandardRoadster.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardRoadster.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardRoadster.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/StandardRoadster.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/StandardRoadster.cpp.i"
@@ -323,8 +373,13 @@ CMakeFiles/Project.dir/StandardRoadster.cpp.o.provides.build: CMakeFiles/Project
 
 CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o: ../ElectricFormulaOne.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricFormulaOne.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricFormulaOne.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/ElectricFormulaOne.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/ElectricFormulaOne.cpp.i"
@@ -347,8 +402,13 @@ CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o.provides.build: CMakeFiles/Proje
 
 CMakeFiles/Project.dir/SportsFormulaOne.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/SportsFormulaOne.cpp.o: ../SportsFormulaOne.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Project.dir/SportsFormulaOne.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsFormulaOne.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsFormulaOne.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Project.dir/SportsFormulaOne.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/SportsFormulaOne.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsFormulaOne.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/SportsFormulaOne.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/SportsFormulaOne.cpp.i"
@@ -371,8 +431,13 @@ CMakeFiles/Project.dir/SportsFormulaOne.cpp.o.provides.build: CMakeFiles/Project
 
 CMakeFiles/Project.dir/StandardFormulaOne.cpp.o: CMakeFiles/Project.dir/flags.make
 CMakeFiles/Project.dir/StandardFormulaOne.cpp.o: ../StandardFormulaOne.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Project.dir/StandardFormulaOne.cpp.o"
 	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardFormulaOne.cpp.o -c /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardFormulaOne.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Project.dir/StandardFormulaOne.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project.dir/StandardFormulaOne.cpp.o -c /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardFormulaOne.cpp
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 
 CMakeFiles/Project.dir/StandardFormulaOne.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project.dir/StandardFormulaOne.cpp.i"
@@ -429,7 +494,11 @@ Project.exe: CMakeFiles/Project.dir/SportsFormulaOne.cpp.o
 Project.exe: CMakeFiles/Project.dir/StandardFormulaOne.cpp.o
 Project.exe: CMakeFiles/Project.dir/build.make
 Project.exe: CMakeFiles/Project.dir/link.txt
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable Project.exe"
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable Project.exe"
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Project.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

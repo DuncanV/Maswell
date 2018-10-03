@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+<<<<<<< HEAD
   "/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeCCompiler.cmake.in"
   "/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeCCompilerABI.c"
   "/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeCInformation.cmake"
@@ -96,13 +97,34 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/CYGWIN.cmake"
   "/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/UnixPaths.cmake"
   "/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/ProcessorCount.cmake"
+=======
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeCInformation.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeCXXInformation.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeCommonLanguageInclude.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeFindCodeBlocks.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeGenericSystem.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeLanguageInformation.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeRCInformation.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeSystemSpecificInformation.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Compiler/GNU-C.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Compiler/GNU-CXX.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Compiler/GNU.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/CYGWIN-GNU-C.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/CYGWIN-GNU-CXX.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/CYGWIN-GNU.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/CYGWIN-windres.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/CYGWIN.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/Platform/UnixPaths.cmake"
+  "/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/share/cmake-3.10.3/Modules/ProcessorCount.cmake"
+>>>>>>> c72fe09c70d6ce2dfe16d09b8391130e2d392586
   "../CMakeLists.txt"
   "CMakeFiles/3.10.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.10.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.10.3/CMakeRCCompiler.cmake"
   "CMakeFiles/3.10.3/CMakeSystem.cmake"
-  "CMakeFiles/feature_tests.c"
-  "CMakeFiles/feature_tests.cxx"
   )
 
 # The corresponding makefile is:
@@ -113,12 +135,6 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "CMakeFiles/3.10.3/CMakeSystem.cmake"
-  "CMakeFiles/3.10.3/CMakeCCompiler.cmake"
-  "CMakeFiles/3.10.3/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.10.3/CMakeRCCompiler.cmake"
-  "CMakeFiles/3.10.3/CMakeCCompiler.cmake"
-  "CMakeFiles/3.10.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

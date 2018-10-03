@@ -4,12 +4,7 @@
 
 #ifndef PROJECT_SPORTSCAR_H
 #define PROJECT_SPORTSCAR_H
-class SportsCar
-{
 
-<<<<<<< HEAD
-};
-=======
 #include "Car.h"
 
 class SportsCar : public Car{
@@ -26,5 +21,4 @@ private:
 
 };
 
->>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 #endif //PROJECT_SPORTSCAR_H
