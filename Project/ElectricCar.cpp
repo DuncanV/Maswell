@@ -5,7 +5,14 @@
 #include "ElectricCar.h"
 
 ElectricCar::ElectricCar(string modelType_) : Car("Electric " + modelType_){
-    cout << "Creating ...\n" << getDescription() << endl;
+    string end = "*************************\n";
+
+     string out="";
+    out += "Model type: Electric " + modelType_ + "\n";
+    out += "Model number: " + to_string(getModelNumber()) + "\n";
+    out += end;
+    setDescription(out);
+    cout << "Creating ...\n" <<"Car Description:\n" <<getDescription() << endl;
 }
 
 ElectricCar::ElectricCar(const Car &car_) : Car(car_){
@@ -21,4 +28,8 @@ string ElectricCar::getDescription() {
 Car* ElectricCar::clone() {
     cout << "Cloning ...\n" << getDescription() << endl;
     return new ElectricCar(*this);
+}
+
+string ElectricCar::showCarStats() {
+    return getDescription();
 }

@@ -46,6 +46,10 @@ ElectricCar.h
 ElectricCar.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricCar.h
 
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/FlameVinyl.h
+PimpMyRide.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/PimpMyRide.h
+
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ForumlaOneFactory.h
 CarFactory.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h
@@ -66,6 +70,14 @@ StandardGoKart.h
 ElectricGokart.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricGokart.h
 
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Nitro.h
+PimpMyRide.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/PimpMyRide.h
+
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/PimpMyRide.h
+Car.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Car.h
+
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/RoadsterFactory.h
 CarFactory.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h
@@ -75,6 +87,18 @@ SportsRoadster.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsRoadster.h
 StandardRoadster.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardRoadster.h
+
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SkullVinyl.h
+PimpMyRide.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/PimpMyRide.h
+
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SpikedTires.h
+PimpMyRide.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/PimpMyRide.h
+
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Spoiler.h
+PimpMyRide.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/PimpMyRide.h
 
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.cpp
 SportsCar.h
@@ -129,4 +153,14 @@ ForumlaOneFactory.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ForumlaOneFactory.h
 CarFactory.h
 /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h
+Nitro.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Nitro.h
+SkullVinyl.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SkullVinyl.h
+FlameVinyl.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/FlameVinyl.h
+SpikedTires.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SpikedTires.h
+Spoiler.h
+/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Spoiler.h
 

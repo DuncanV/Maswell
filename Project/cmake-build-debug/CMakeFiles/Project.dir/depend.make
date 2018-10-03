@@ -22,9 +22,15 @@ CMakeFiles/Project.dir/main.cpp.o: ../ElectricCar.h
 CMakeFiles/Project.dir/main.cpp.o: ../ElectricFormulaOne.h
 CMakeFiles/Project.dir/main.cpp.o: ../ElectricGokart.h
 CMakeFiles/Project.dir/main.cpp.o: ../ElectricRoadster.h
+CMakeFiles/Project.dir/main.cpp.o: ../FlameVinyl.h
 CMakeFiles/Project.dir/main.cpp.o: ../ForumlaOneFactory.h
 CMakeFiles/Project.dir/main.cpp.o: ../GoKartFactory.h
+CMakeFiles/Project.dir/main.cpp.o: ../Nitro.h
+CMakeFiles/Project.dir/main.cpp.o: ../PimpMyRide.h
 CMakeFiles/Project.dir/main.cpp.o: ../RoadsterFactory.h
+CMakeFiles/Project.dir/main.cpp.o: ../SkullVinyl.h
+CMakeFiles/Project.dir/main.cpp.o: ../SpikedTires.h
+CMakeFiles/Project.dir/main.cpp.o: ../Spoiler.h
 CMakeFiles/Project.dir/main.cpp.o: ../SportsCar.h
 CMakeFiles/Project.dir/main.cpp.o: ../SportsFormulaOne.h
 CMakeFiles/Project.dir/main.cpp.o: ../SportsGoKart.h
