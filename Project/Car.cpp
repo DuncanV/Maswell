@@ -17,6 +17,20 @@ Car::Car(const Car& car_) {
 }
 
 string Car::getDescription() {
+//    string end = "*************************\n";
+//
+//    string out = "Car Description:\n";
+//    out += "Model type: " + modelType + "\n";
+//    out += "Model number: " + to_string(modelNumber) + "\n";
+//    out += end;
 
+    return description;
+}
 
+void Car::setDescription(string des) {
+    description=des;
+}
+
+int Car::getModelNumber() {
+    return modelNumber;
 }
