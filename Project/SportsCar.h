@@ -44,6 +44,9 @@ public:
     */
     virtual Car* clone();
 
+    virtual string showCarStats();
+    virtual void add(Car* c){}
+
 private:
 
 

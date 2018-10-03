@@ -17,6 +17,8 @@ using namespace std;
 class Car{
 
 public:
+
+
     /**
      * The base Constructor for Car
      * @param modelType_ states whether the car is Electirc/Sports/Standard
@@ -38,7 +40,7 @@ public:
      * a getDescription Function
      * @return a string that states the info about the car
      */
-    virtual string getDescription();
+    string getDescription();
 
     /**
      * a abstract clone function for the prototype design pattern
@@ -46,6 +48,29 @@ public:
      */
     virtual Car* clone() = 0;
 
+    /**
+    * Defualt constructor used for Decoratoring
+    */
+    Car(){};
+
+    /**
+     *abstract add function for decorator
+     * @param c is car object
+     */
+    virtual void add(Car* c)=0;
+
+    /**
+     * setDescritption function
+     * @param des string passed in
+     */
+
+    void setDescription(string des);
+    /**
+     * @return the car modelNumber
+     */
+    int getModelNumber();
+
+    virtual string showCarStats()=0;
 private:
     /**
      * @brief a model string which states the type of car
@@ -57,6 +82,7 @@ private:
      */
     int modelNumber;
     static int modelCounter;
+    string description;
 
 };
 
