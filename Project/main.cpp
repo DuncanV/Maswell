@@ -4,6 +4,10 @@
 #include "RoadsterFactory.h"
 #include "ForumlaOneFactory.h"
 #include "CarFactory.h"
+<<<<<<< HEAD
+
+=======
+>>>>>>> c83f5610bffed3676e79b803a2efe9b0345e0265
 #include "Nitro.h"
 #include "SkullVinyl.h"
 #include "FlameVinyl.h"
@@ -11,6 +15,12 @@
 #include "Spoiler.h"
 int main() {
 
+<<<<<<< HEAD
+=======
+    int testie1;
+
+int main() {
+>>>>>>> 6ed56c75d457be5f2fa002855916f88a4bae5f13
     srand(time(NULL));
 
     CarFactory **Factories = new CarFactory *[3];   //
