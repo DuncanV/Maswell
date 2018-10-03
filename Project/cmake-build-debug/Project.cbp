@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Project">
-				<Option output="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Project.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
+				<Option output="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Project/fast">
-				<Option output="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Project.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
+				<Option output="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,46 +73,54 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Car.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/Car.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/Car.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/Car.h">
 			<Option target="Project"/>
 		</Unit>
+<<<<<<< HEAD
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CarFactory.h">
+=======
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/CarFactory.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricCar.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/CarFactory.h">
+>>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricCar.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricCar.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricFormulaOne.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricCar.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricFormulaOne.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricFormulaOne.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricGokart.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricFormulaOne.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricGokart.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricGokart.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricRoadster.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricGokart.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ElectricRoadster.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricRoadster.cpp">
 			<Option target="Project"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/ElectricRoadster.h">
+			<Option target="Project"/>
+		</Unit>
+<<<<<<< HEAD
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/ForumlaOneFactory.cpp">
 			<Option target="Project"/>
 		</Unit>
@@ -132,60 +140,63 @@
 			<Option target="Project"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.cpp">
+=======
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsCar.cpp">
+>>>>>>> 66707b315b32d3cdd121fc962054f69885cba686
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsCar.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsCar.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsFormulaOne.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsFormulaOne.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsFormulaOne.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsFormulaOne.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsGoKart.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsGoKart.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsGokart.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsGokart.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsGokart.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsGokart.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsRoadster.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsRoadster.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/SportsRoadster.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/SportsRoadster.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardCar.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardCar.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardCar.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardCar.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardFormulaOne.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardFormulaOne.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardFormulaOne.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardFormulaOne.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardGoKart.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardGoKart.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardGoKart.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardGoKart.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardRoadster.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardRoadster.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/StandardRoadster.h">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/StandardRoadster.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/main.cpp">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/main.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/CMakeLists.txt">
+		<Unit filename="/cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
