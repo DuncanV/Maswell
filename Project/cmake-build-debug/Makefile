@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
+RM = /cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cma
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
+	/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -70,7 +70,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/cygdrive/c/Users/Duncan/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/cygdrive/c/Users/Tjaart/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Duncan/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Tjaart/Documents/GitHub/Maswell/Project/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -176,60 +176,6 @@ ElectricCar.s: ElectricCar.cpp.s
 ElectricCar.cpp.s:
 	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricCar.cpp.s
 .PHONY : ElectricCar.cpp.s
-
-ElectricFormulaOne.o: ElectricFormulaOne.cpp.o
-
-.PHONY : ElectricFormulaOne.o
-
-# target to build an object file
-ElectricFormulaOne.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricFormulaOne.cpp.o
-.PHONY : ElectricFormulaOne.cpp.o
-
-ElectricFormulaOne.i: ElectricFormulaOne.cpp.i
-
-.PHONY : ElectricFormulaOne.i
-
-# target to preprocess a source file
-ElectricFormulaOne.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricFormulaOne.cpp.i
-.PHONY : ElectricFormulaOne.cpp.i
-
-ElectricFormulaOne.s: ElectricFormulaOne.cpp.s
-
-.PHONY : ElectricFormulaOne.s
-
-# target to generate assembly for a file
-ElectricFormulaOne.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricFormulaOne.cpp.s
-.PHONY : ElectricFormulaOne.cpp.s
-
-ElectricGokart.o: ElectricGokart.cpp.o
-
-.PHONY : ElectricGokart.o
-
-# target to build an object file
-ElectricGokart.cpp.o:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricGokart.cpp.o
-.PHONY : ElectricGokart.cpp.o
-
-ElectricGokart.i: ElectricGokart.cpp.i
-
-.PHONY : ElectricGokart.i
-
-# target to preprocess a source file
-ElectricGokart.cpp.i:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricGokart.cpp.i
-.PHONY : ElectricGokart.cpp.i
-
-ElectricGokart.s: ElectricGokart.cpp.s
-
-.PHONY : ElectricGokart.s
-
-# target to generate assembly for a file
-ElectricGokart.cpp.s:
-	$(MAKE) -f CMakeFiles/Project.dir/build.make CMakeFiles/Project.dir/ElectricGokart.cpp.s
-.PHONY : ElectricGokart.cpp.s
 
 ElectricRoadster.o: ElectricRoadster.cpp.o
 
@@ -516,12 +462,6 @@ help:
 	@echo "... ElectricCar.o"
 	@echo "... ElectricCar.i"
 	@echo "... ElectricCar.s"
-	@echo "... ElectricFormulaOne.o"
-	@echo "... ElectricFormulaOne.i"
-	@echo "... ElectricFormulaOne.s"
-	@echo "... ElectricGokart.o"
-	@echo "... ElectricGokart.i"
-	@echo "... ElectricGokart.s"
 	@echo "... ElectricRoadster.o"
 	@echo "... ElectricRoadster.i"
 	@echo "... ElectricRoadster.s"
