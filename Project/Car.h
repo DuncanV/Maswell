@@ -19,9 +19,9 @@ class Car{
 public:
     /**
      * The base Constructor for Car
-     * @param modeType_ states whether the car is Electirc/Sports/Standard
+     * @param modelType_ states whether the car is Electirc/Sports/Standard
      */
-    Car(string modeType_);
+    Car(string modelType_);
 
     /**
      * The copy constructor for Car
@@ -42,7 +42,7 @@ public:
 
     /**
      * a abstract clone function for the prototype design pattern
-     * @return
+     * @return a Car object
      */
     virtual Car* clone() = 0;
 

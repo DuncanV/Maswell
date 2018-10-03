@@ -1,6 +1,10 @@
-//
-// Created by Tjaart on 2018/10/03.
-//
+/**
+*  @file StandardGoKart.h
+*  @class StandardGoKart
+*  @authors Duncan + Tjaart
+*  @version 1.0.0
+*  @brief Concrete Product for Abstract Factory Pattern
+*/
 
 #ifndef PROJECT_STANDARDGOKART_H
 #define PROJECT_STANDARDGOKART_H
@@ -9,6 +13,9 @@
 
 class StandardGoKart : public StandardCar{
 public:
+    /**
+     * The base Constructor for StandardGoKart
+     */
     StandardGoKart() : StandardCar("GoKart"){};
 };
 
