@@ -1,6 +1,10 @@
-//
-// Created by Tjaart on 2018/10/03.
-//
+/**
+ *  @file SportsFormulaOne.h
+ *  @class SportsFormulaOne
+ *  @authors Duncan + Tjaart
+ *  @version 1.0.0
+ *  @brief Concrete Product for Abstract Factory Pattern
+ */
 
 #ifndef PROJECT_SPORTSFORMULAONE_H
 #define PROJECT_SPORTSFORMULAONE_H
@@ -9,6 +13,9 @@
 
 class SportsFormulaOne : public SportsCar{
 public:
+    /**
+     * Constructor for SportsFormulaOne, calls Constructor  of SportsCar
+     */
     SportsFormulaOne() : SportsCar("FormulaOne"){};
 };
 

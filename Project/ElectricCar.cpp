@@ -1,5 +1,5 @@
 //
-// Created by Tjaart on 2018/10/03.
+// Created by Duncan + Tjaart on 2018/10/03.
 //
 
 #include "ElectricCar.h"
